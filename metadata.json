@@ -1,0 +1,5 @@
+{
+  "name": "ModMind Identity Utility",
+  "description": "A simple utility to generate a unique user ID (UUID) and a consistent, corresponding hash color for cross-platform UI consistency. Useful for development and testing.",
+  "requestFramePermissions": []
+}
